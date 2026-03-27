@@ -37,7 +37,7 @@ This project is based on the Deloitte Australia Data Analytics Virtual Internshi
 
 ## Dashboard Preview
 
-![Dashboard](./visuals/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Conclusion
 
