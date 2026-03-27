@@ -23,6 +23,7 @@ This project is based on the Deloitte Australia Data Analytics Virtual Internshi
 ## Tools Used
 
 * Microsoft Excel
+* Tableau
 
 ## Dataset
 
@@ -32,8 +33,8 @@ This project is based on the Deloitte Australia Data Analytics Virtual Internshi
 
 ## Files
 
-* data/Equality_Table.xlsx
-* visuals/dashboard.png
+* Equality_Table.xlsx
+* dashboard.png
 
 ## Dashboard Preview
 
